@@ -1,4 +1,4 @@
-</title> Hi, I'm Jovan Sousa ! 
+</Hi, I'm Jovan Sousa ! > Hi, I'm Jovan Sousa ! 
 
 <img align='right' src="">
 <p><em>Estudante na at <a href="http://https://cursos.cruzeirodosulvirtual.com.br/graduacao?utm_source=ads-google-search&utm_medium=g-c-&utm_campaign=marca-nac_graduacao_conversao_vendas_search_texto_ead_ads&utm_term=cruzeiro%20do%20sul%20virtual-b&utm_content=marca_keywords&gad_source=1&gad_campaignid=17254538329&gbraid=0AAAAADqXL__cHRf4K0zm1R8zCQkxHoxby&gclid=CjwKCAjwy7HEBhBJEiwA5hQNojctDp3oO5ESmDPYLM4VvM3Mc3ADinzjfwldzIw1F7ZjGq-ics9ZhRoCOswQAvD_BwE">University  Cruzeiro Do sul </a><img 
