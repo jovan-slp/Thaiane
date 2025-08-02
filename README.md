@@ -8,7 +8,7 @@
 
 
 
-<p><em>t<img Likendin [https://www.linkedin.com/in/jovan-de-sousa-bb2a381b5)]
+Meu Likendin </a><img [https://www.linkedin.com/in/jovan-de-sousa-bb2a381b5)]
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
