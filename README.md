@@ -1,4 +1,4 @@
-<h2> Hi, I'm Jovan Sousa ! <img [src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"]https:
+<h2> Hi, I'm Jovan Sousa ! <img [src="https://cdn.discordapp.com/attachments/1368400431432073311/1401030215005900912/IMG_1758_1.jpg?ex=688eca91&is=688d7911&hm=75ea01cf15563f50d9d950b4d35aeb98aad6984260470c0da6b9be0156148469&"]https:
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Estudante na at <a href="http://https://cursos.cruzeirodosulvirtual.com.br/graduacao?utm_source=ads-google-search&utm_medium=g-c-&utm_campaign=marca-nac_graduacao_conversao_vendas_search_texto_ead_ads&utm_term=cruzeiro%20do%20sul%20virtual-b&utm_content=marca_keywords&gad_source=1&gad_campaignid=17254538329&gbraid=0AAAAADqXL__cHRf4K0zm1R8zCQkxHoxby&gclid=CjwKCAjwy7HEBhBJEiwA5hQNojctDp3oO5ESmDPYLM4VvM3Mc3ADinzjfwldzIw1F7ZjGq-ics9ZhRoCOswQAvD_BwE">University  Cruzeiro Do sul </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif"
